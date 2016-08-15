@@ -1,2 +1,2 @@
 # hello
-create project
+create project add something
